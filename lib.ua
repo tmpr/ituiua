@@ -1,5 +1,5 @@
 ~ "intervaltree.ua" ~ IT
-~ "experiment.ua" ~ RandIntervals
+~ "experiment" ~ RandIntervals
 
 ┌─╴test
   TestIntervals ← RandIntervals 1000
